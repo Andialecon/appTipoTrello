@@ -3,6 +3,7 @@
         {
             "id" :1,
             "title":"Informe",
+            "descripcion":"Redactar un texto documentando las actividades realizadas durante la semana y los logros alcanzados",
             "responsable":"Mauro",
             "state":"done",
             "deadline": 1290410940,
@@ -12,6 +13,7 @@
             "id" :2,
             "title":"Reunion",
             "responsable":"Jhoana",
+            "descripcion":"Convocar a todos los lideres de equipos y asignarles las tareas de la semana",
             "state":"to-do",
             "deadline": 1290413340,
             "created":1614321159
