@@ -1,27 +1,46 @@
 .colum-target{ 
+    padding: 0;
+    background-color:rgb(148 175 175);
     margin-right: 20px; 
-    height: auto;
-    display: flex;
+    height: 500px;
     border-radius: 20px;
     justify-content: center;
 }
 
-#proceso{
-    background-color: #ed5f14fa;
+.header-task{
+    background-color: bisque;
 }
 
-#pendiente{
-    background-color: #ede914fa;
+.body-task{
+    height: 450px;
+    overflow-y: scroll;
 }
 
-#terminada{
-    background-color: #1bed14fa;
+.colum-form{ 
+    margin-right: 20px; 
+    border-radius: 20px;
+    justify-content: center;
+}
+
+#tareaPendiente{
+    
+}
+
+#tareaEnProceso{
+    
+}
+
+#tareaTerminada{
+   
 }
 
 h2{
-    
     font-size: larger;
     font-family: inherit;
     margin-top: 10px;
+}
 
+.alert-heading{
+    margin: 10px;
+    background-color: transparent;
 }
